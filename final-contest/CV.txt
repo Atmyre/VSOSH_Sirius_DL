@@ -1,0 +1,3 @@
+CV final contest kaggle competition
+
+https://www.kaggle.com/competitions/sirius-cv-contest
